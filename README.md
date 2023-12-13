@@ -45,6 +45,6 @@ I'm a Software Developer from Argentina
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mequerejeta&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Matias Public Github Stats">
 </p>  
 <br/>
-
-| <a href="https://github.com/mequerejeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mequerejeta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Matias github stats" /></a> | <a href="https://github.com/mequerejeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequerejeta&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+ <a href="https://github.com/mequerejeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequerejeta&layout=compact&theme=buefy&hide_border=true" /></a> 
+</p> 
