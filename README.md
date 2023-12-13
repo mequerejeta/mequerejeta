@@ -7,7 +7,7 @@
 </h5>
 <h3 align="center">
 I'm a Software Developer from Argentina 
-<br/>
+
 **About me**
 
 - 💼 .Net Developer at a local company since November 2022.
