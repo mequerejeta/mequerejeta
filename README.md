@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mat%C3%ADas+Querejeta+%F0%9F%91%8B;Welcome+to+my+GitHub;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mequerejeta/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/mquerejeta/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/mquerejeta" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <h3 align="center">
