@@ -10,7 +10,7 @@ I'm a Software Developer from Argentina
 
 **About me**
 
-- 💼 Software Developer at a local company since November 2022. One of my goals for 2024 is to transition my career towards becoming a Frontend Developer.
+- 💼 .NET Developer at a local company since November 2022. One of my goals for 2024 is to transition my career towards becoming a Frontend Developer.
 - 📖 Currently self-learning React.
 - 🌐 **Languages:** Spanish (native), English (Intermediate)
 </h3>
