@@ -3,16 +3,18 @@
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mquerejeta/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://mquerejeta.vercel.app/" title="Portfolio"><img width="22" src="images/astro-original.png"> Portfolio</a></code>
+  <code><a href="https://mquerejeta.vercel.app/" title="Portfolio"><img width="22" src="images/astro-original.svg"> Portfolio</a></code>
 </h5>
-<h3 align="center">
-I'm a Software Developer from Argentina 
+<h2 align="center">
+
 
 **About me**
-
-- 💼 .NET Developer at a local company since November 2022. One of my goals for 2024 is to transition my career towards becoming a Frontend Developer.
-- 📖 Currently self-learning React.
-- 🌐 **Languages:** Spanish (native), English (Intermediate)
+</h2>
+<h3 align="center">
+ 💼Software Developer at a local company since November 2022. </br>
+  ✨One of my goals for 2024 is to transition my career towards becoming a Frontend Developer. </br>
+ 📖 Currently self-learning React.</br>
+ 🌐 Languages: Spanish (native), English (Intermediate)</br>
 </h3>
 <br/>
 
