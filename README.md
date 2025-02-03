@@ -11,9 +11,7 @@
 **About me**
 </h2>
 <h3 align="center">
- 💼Software Developer at a local company since November 2022. </br>
-  ✨One of my goals for 2024 is to transition my career towards becoming a Frontend Developer. </br>
- 📖 Currently self-learning React.</br>
+ 💼Software Developer </br>
  🌐 Languages: Spanish (native), English (Intermediate)</br>
 </h3>
 <br/>
