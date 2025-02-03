@@ -3,7 +3,7 @@
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mquerejeta/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://mquerejeta.vercel.app/" title="Portfolio"><img width="22" src="images/astro-original.svg"> Portfolio</a></code>
+
 </h5>
 <h2 align="center">
 
