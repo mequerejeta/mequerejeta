@@ -1,50 +1,5 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mat%C3%ADas+Querejeta+%F0%9F%91%8B;Welcome+to+my+GitHub;Nice+to+meet+you!" alt="Typing SVG" /></a>
-</h1>
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mquerejeta/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-
-</h5>
-<h2 align="center">
-
-
-**About me**
-</h2>
-<h3 align="center">
- 💼Software Developer </br>
- 🌐 Languages: Spanish (native), English (Intermediate)</br>
-</h3>
-<br/>
-
-<h3 align="center">Languages, Frameworks and Tools:</h3>
-<p align="center">
-<code><img title="C#" height="25" src="images/csharp.svg"></code>
-<code><img title="react" height="25" src="images/react.svg"></code>
-<code><img title="bootstrap" height="25" src="images/bootstrap-original.svg"></code>
-<code><img title="css" height="25" src="images/css3-original.svg"></code>
-<code><img title="html" height="25" src="images/html5-original.svg"></code>
-<code><img title="dotnet" height="25" src="images/dotnetcore-original.svg"></code>
-<code><img title="git" height="25" src="images/git-original.svg"></code>
-<code><img title="js" height="25" src="images/javascript-original.svg"></code>
-<code><img title="visual" height="25" src="images/visualstudio-plain.svg"></code>
-<code><img title="vscode" height="25" src="images/vscode-original.svg"></code>
-<code><img title="tailwind" height="25" src="images/tailwindcss-plain.svg"></code>
-<code><img title="blazor" height="25" src="images/blazor.svg"></code>
-<code><img title="restapi" height="25" src="images/rest-api-icon.svg"></code>
-<code><img title="tensor" height="25" src="images/tensorflow-original.svg"></code>
-
-</p>
-
-<br/>
-
-<h2 align="center">
-    My contributions to open-source:
-</h2>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mequerejeta&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Matias Public Github Stats">
-</p>  
-<br/>
-<p align="center">
- <a href="https://github.com/mequerejeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequerejeta&layout=compact&theme=buefy&hide_border=true" /></a> 
-</p> 
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+Mat%C3%ADas+Querejeta+%F0%9F%91%8B;Application+Security+%7C+Penetration+Testing;.NET+%2F+React+developer+%E2%86%92+AppSec" alt="Typing SVG" /></a> </h1> <p align="center"> <a href="https://www.linkedin.com/in/mquerejeta/"><img src="https://img.shields.io/badge/LinkedIn-mquerejeta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <!-- TODO: replace with the Vercel URL once the portfolio is deployed --> <a href="https://mquerejeta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mquerejeta.vercel.app-0B1220?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a> </p> <h2 align="center">About me</h2> <p align="center"> 🛡️ Software Developer with <b>4 years of .NET and React</b> experience, transitioning into <b>application security and penetration testing</b>.<br/> 🔧 Currently remediating vulnerabilities from penetration tests directly in code and driving <b>SAST/DAST</b> adoption in CI/CD pipelines.<br/> 🎯 Building my offensive security skills through hands-on labs · Open to AppSec and junior pentesting roles.<br/> 📍 Argentina · 🌐 Spanish (native), English (upper intermediate) </p> <br/> <h3 align="center">Application Security</h3> <p align="center"> <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/OWASP_API_Top_10-000000?style=flat-square&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/SAST-Semgrep-2DD4BF?style=flat-square"> <img src="https://img.shields.io/badge/DAST-OWASP_ZAP-2DD4BF?style=flat-square"> <img src="https://img.shields.io/badge/CI%2FCD_security-2DD4BF?style=flat-square"> <img src="https://img.shields.io/badge/Secure_coding-2DD4BF?style=flat-square"> </p> <h3 align="center">Penetration Testing & Security Tools</h3> <p align="center"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"> <img src="https://img.shields.io/badge/Nikto-555555?style=flat-square"> <img src="https://img.shields.io/badge/Gobuster-555555?style=flat-square"> <img src="https://img.shields.io/badge/WPScan-555555?style=flat-square"> <img src="https://img.shields.io/badge/Wfuzz-555555?style=flat-square"> <img src="https://img.shields.io/badge/enum4linux-555555?style=flat-square"> <img src="https://img.shields.io/badge/smbclient-555555?style=flat-square"> <img src="https://img.shields.io/badge/Hydra-555555?style=flat-square"> <img src="https://img.shields.io/badge/Hashcat-555555?style=flat-square"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"> </p> <h3 align="center">Authentication</h3> <p align="center"> <img src="https://img.shields.io/badge/OAuth_2.0_%2F_OpenID_Connect-EB5424?style=flat-square&logo=openid&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/IdentityServer4-512BD4?style=flat-square"> </p> <h3 align="center">Development</h3> <p align="center"> <code><img title="C#" height="25" src="images/csharp.svg"></code> <code><img title=".NET Core" height="25" src="images/dotnetcore-original.svg"></code> <code><img title="Blazor" height="25" src="images/blazor.svg"></code> <code><img title="Web APIs" height="25" src="images/rest-api-icon.svg"></code> <code><img title="React" height="25" src="images/react.svg"></code> <code><img title="JavaScript" height="25" src="images/javascript-original.svg"></code> <code><img title="Git" height="25" src="images/git-original.svg"></code> </p> <p align="center"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> </p> <br/> <h2 align="center">Hands-on security</h2>
+Offensive security labs: scanning and enumeration, web exploitation, privilege escalation, password attacks and pivoting on Windows and Linux targets.
+Team penetration test (academic): full engagement against a fictitious company, from recon to executive and technical reporting.
+bugbounty-ops: how I organize my bug bounty research while I learn. Checklists per vulnerability class based on OWASP WSTG, recon scripts (subfinder, httpx, nuclei) and a report template. It's a methodology, not a list of findings.
+<p align="center"> <sub>Full experience, certifications and education in my <a href="https://mquerejeta.vercel.app">portfolio</a> and <a href="https://www.linkedin.com/in/mquerejeta/">LinkedIn</a>.</sub> </p>
